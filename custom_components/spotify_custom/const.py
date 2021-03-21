@@ -1,6 +1,6 @@
 """Define constants for the Spotify integration."""
 
-DOMAIN = "spotify"
+DOMAIN = "spotify_custom"
 
 DATA_SPOTIFY_CLIENT = "spotify_client"
 DATA_SPOTIFY_ME = "spotify_me"
