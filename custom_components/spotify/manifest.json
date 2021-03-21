@@ -1,6 +1,6 @@
 {
-  "domain": "spotify_custom",
-  "name": "Spotify (Custom scan Interval)",
+  "domain": "spotify",
+  "name": "Spotify (Custom Scan-Interval)",
   "version": ["1.0.0"],
   "documentation": "https://www.home-assistant.io/integrations/spotify",
   "requirements": ["spotipy==2.17.1"],
