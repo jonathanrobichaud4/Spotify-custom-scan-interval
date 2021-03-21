@@ -1,0 +1,11 @@
+{
+  "domain": "spotify_custom",
+  "name": "Spotify (Custom scan Interval)",
+  "documentation": "https://www.home-assistant.io/integrations/spotify",
+  "requirements": ["spotipy==2.17.1"],
+  "zeroconf": ["_spotify-connect._tcp.local."],
+  "dependencies": ["http"],
+  "codeowners": ["@frenck (Modified by @jonathanrobichaud4)"],
+  "config_flow": true,
+  "issue_tracker": "https://github.com/jonathanrobichaud4/Spotify-plugin-custon-scan-interval-homeassistant/issues"
+}
