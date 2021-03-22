@@ -1,7 +1,7 @@
 {
   "domain": "spotify",
   "name": "Spotify (Custom Scan-Interval)",
-  "version": ["1.0.0"],
+  "version": "0.1.1-alpha",
   "documentation": "https://www.home-assistant.io/integrations/spotify",
   "requirements": ["spotipy==2.17.1"],
   "zeroconf": ["_spotify-connect._tcp.local."],
