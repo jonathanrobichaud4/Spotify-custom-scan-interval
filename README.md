@@ -1,5 +1,7 @@
 #**Dont't use this**
 Please use the node red flow below as this no longer works!
+<details><summary>Code in here</summary>
+<p>
 
 ```json
 [
@@ -175,6 +177,9 @@ Please use the node red flow below as this no longer works!
     }
 ]
 ```
+    
+</p>
+</details>
 
 # Spotify-custom-scan-interval
 Home Assistant Spotify integration with 1 second scan interval. 
